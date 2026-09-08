@@ -1,6 +1,6 @@
 # ClaimGuard — AI-Powered Insurance Claim Risk Assessor
 
-**Stack:** FastAPI + scikit-learn (ML) + LangChain. Exactly these three. No LangGraph, no vector DB, no agents, no extra frameworks.
+**Stack:** FastAPI + scikit-learn (ML) + LangChain. Exactly these three.
 
 **Concept it clears:** ML makes the decision, LangChain explains the decision in plain English. This "predict + explain" pattern is a real production pattern (fraud, credit risk, medical triage) — small enough to build in a day, but it's a genuine talking point for interviews at both product and service companies.
 
